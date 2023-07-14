@@ -1,5 +1,5 @@
-# data_engineering_task
-cachet  data engineering home taskhome task
+# data_analytics_sample_task
+Example data analytics home task
 
 
 ## Installation
@@ -12,14 +12,14 @@ psycopg2
 sqlalchemy
 ```
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and Dependencies and start the server.
 
 
 # Cachet Data Engineering Task
 
 ## Documentation
 
-This README file documents contains all the processes undertaken to solve the tasks, which include answering theretical questions, data extraction, transformation, and analysis steps, as well as a brief summary of the insights gained from the data analysis.
+This README file document contains all the processes undertaken to solve sample tasks, which include answering theoretical questions, data extraction, transformation, and analysis steps, as well as a summary of the insights gained from the data analysis.
 
 ## Task 1
 
@@ -49,7 +49,7 @@ Overall, the elements of visualizations that go into a management dashboard for 
 ## Task 2
 1. I used Python, pandas, and TCP/IP server connection using "psycopg2 and sqlalchemy" to load the datasets into the PostgreSQL server (see the attached "Cachet_Test_Task.ipynb" script for details).
 
-2. The next several steps were done using PG4 PostgreSQL queries. I performed data cleaning to ensure that the data is clean and free of errors, such as missing values, duplicates, and incorrect data types (see "combined_data_analysis.sql" for details). I also attempted removing duplicate entries, if any.
+2. The next several steps were done using PG4 PostgreSQL queries. I performed data cleaning to ensure that the data is clean and free of errors, such as missing values, duplicates, and incorrect data types (see "combined_data_analysis.sql" for details). I also attempted to remove duplicate entries, if any.
 
 3. I performed data transformation steps, such as creating new features or transforming existing ones, to better suit any forthcoming analysis. For example, calculating the duration of a policy or categorizing claims into different buckets based on their amounts.
 
